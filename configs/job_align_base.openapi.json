@@ -1,0 +1,22 @@
+{
+  "name": "vlmdit-align-base",
+  "image": "registry-wl01.vivo.lan/base/ai-brain-server/vivolm_ngc_25.10-py3:2025110714",
+  "business": "VideoFoundationModel1b-wl01",
+  "sub_business": "vjepa-video",
+  "restart_policy": "Never",
+  "command": "bash /data/vjuicefs_ai_gpt_wl/public_data/11195663/vlm_dit_downstream/v_launch/run_align_base.sh",
+  "data_paths": [
+    "/data/vjuicefs_ai_gpt_wl/public_data",
+    "/data/juicefs_sharing_data/11195663",
+    "/data/juicefs_sharing_data/public_data"
+  ],
+  "worker": {
+    "num": "1",
+    "gpu": "4",
+    "cpu": "120",
+    "memory": "960Gi",
+    "nodes": {
+      "vivo.com/machine-type": "L40s"
+    }
+  }
+}

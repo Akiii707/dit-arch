@@ -1,0 +1,20 @@
+01_anime_girl|a beautiful anime girl with silver hair under a starry sky
+02_anime_city|anime cyberpunk city at night with neon signs
+03_anime_dragon|a majestic anime dragon flying above clouds at sunset
+04_photo_dog|a golden retriever puppy sitting on a wooden floor
+05_photo_landscape|snow-capped mountains reflected in an alpine lake at sunrise
+06_photo_food|a rustic sourdough pizza fresh from a wood-fired oven
+07_portrait_woman|an elderly woman with silver hair and a warm smile
+08_underwater|a coral reef with tropical fish in turquoise water
+09_sunset_beach|a serene sunset over a tropical beach with palm trees
+10_snow_fox|a red fox walking through deep snow in a birch forest
+11_still_life|a still life of peaches and grapes on a wooden table
+12_watercolor|a watercolor painting of a small French village street
+13_ink_landscape|a Chinese ink wash painting of misty mountains with a fisherman
+14_scifi_scene|a colossal space station orbiting a gas giant
+15_fantasy_castle|a majestic fantasy castle floating above clouds
+16_mech_robot|a giant battle-worn mecha robot in a ruined city
+17_cute_cat_chibi|a cute chibi orange cat wearing a wizard hat
+18_impressionist|an impressionist painting of a garden with sunflowers
+19_night_market|a bustling Asian night market with red lanterns
+20_macro_flower|a macro photograph of a purple iris flower with dew drops

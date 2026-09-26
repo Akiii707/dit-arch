@@ -1,0 +1,320 @@
+{
+  "batch20": {
+    "num_images": 20,
+    "mean_clip_score": 0.227,
+    "per_image": [
+      {
+        "name": "01_anime_girl",
+        "prompt": "A beautiful anime style illustration, a girl with long silver hair standing under a starry night sky, glowing fireflies around her, vibrant colors, Studio Ghibli style, highly detailed.",
+        "score": 0.3209
+      },
+      {
+        "name": "02_anime_city",
+        "prompt": "Anime style cyberpunk city at night, neon signs reflecting on wet streets, a lone girl with an umbrella, Makoto Shinkai style, cinematic lighting.",
+        "score": 0.2547
+      },
+      {
+        "name": "03_anime_dragon",
+        "prompt": "A majestic anime style dragon flying above clouds at sunset, golden scales shining, epic fantasy scene, detailed illustration.",
+        "score": 0.1795
+      },
+      {
+        "name": "04_photo_dog",
+        "prompt": "A photorealistic portrait of a golden retriever puppy sitting on a wooden floor, soft natural window light, shallow depth of field, 85mm lens.",
+        "score": 0.2749
+      },
+      {
+        "name": "05_photo_landscape",
+        "prompt": "Photorealistic landscape of snow-capped mountains reflected in a calm alpine lake at sunrise, dramatic clouds, ultra detailed, nature photography.",
+        "score": 0.2165
+      },
+      {
+        "name": "06_photo_food",
+        "prompt": "A close-up photograph of a rustic sourdough pizza fresh from a wood-fired oven, melted cheese bubbling, basil leaves, moody restaurant lighting, food photography.",
+        "score": 0.2401
+      },
+      {
+        "name": "07_portrait_woman",
+        "prompt": "Photorealistic portrait of an elderly woman with kind wrinkles and silver hair, warm smile, golden hour light, 50mm portrait lens, bokeh background.",
+        "score": 0.1878
+      },
+      {
+        "name": "08_underwater",
+        "prompt": "A vivid underwater photograph of a coral reef with tropical fish, sunbeams piercing through turquoise water, National Geographic style.",
+        "score": 0.2578
+      },
+      {
+        "name": "09_sunset_beach",
+        "prompt": "A serene sunset over a tropical beach, palm trees silhouetted against orange and purple sky, gentle waves, travel photography.",
+        "score": 0.2737
+      },
+      {
+        "name": "10_snow_fox",
+        "prompt": "A red fox walking through deep snow in a birch forest, soft winter light, wildlife photography, shallow depth of field.",
+        "score": 0.2604
+      },
+      {
+        "name": "11_still_life",
+        "prompt": "Classical oil painting style still life, a bowl of ripe peaches and grapes on a wooden table, dramatic chiaroscuro lighting, Rembrandt style.",
+        "score": 0.2162
+      },
+      {
+        "name": "12_watercolor",
+        "prompt": "Loose watercolor painting of a small French village street with flower boxes, soft pastel washes, artistic paper texture.",
+        "score": 0.1135
+      },
+      {
+        "name": "13_ink_landscape",
+        "prompt": "Traditional Chinese ink wash painting of misty mountains with a lone fisherman on a boat, minimal elegant brushstrokes.",
+        "score": 0.1938
+      },
+      {
+        "name": "14_scifi_scene",
+        "prompt": "Sci-fi concept art, a colossal space station orbiting a gas giant, sleek white architecture, cinematic scale, concept art illustration.",
+        "score": 0.1237
+      },
+      {
+        "name": "15_fantasy_castle",
+        "prompt": "A majestic fantasy castle floating above clouds, waterfalls falling into the void, epic matte painting, dramatic lighting.",
+        "score": 0.2561
+      },
+      {
+        "name": "16_mech_robot",
+        "prompt": "A giant battle-worn mecha robot standing in a ruined city at dusk, detailed mechanical panels, anime sci-fi illustration.",
+        "score": 0.1688
+      },
+      {
+        "name": "17_cute_cat_chibi",
+        "prompt": "Chibi anime style cute orange cat wearing a tiny wizard hat, holding a star wand, pastel colors, kawaii illustration.",
+        "score": 0.2473
+      },
+      {
+        "name": "18_impressionist",
+        "prompt": "Impressionist oil painting of a garden full of blooming sunflowers, thick visible brushstrokes, Monet style, bright daylight.",
+        "score": 0.2534
+      },
+      {
+        "name": "19_night_market",
+        "prompt": "A bustling Asian night market street with red lanterns and food stalls, steam rising, crowd silhouettes, cinematic anime background art.",
+        "score": 0.2681
+      },
+      {
+        "name": "20_macro_flower",
+        "prompt": "Extreme macro photograph of a dew-covered purple iris flower, water droplets like crystals, morning backlight, ultra sharp detail.",
+        "score": 0.2326
+      }
+    ]
+  },
+  "batch20_b0": {
+    "num_images": 20,
+    "mean_clip_score": 0.1976,
+    "per_image": [
+      {
+        "name": "01_anime_girl",
+        "prompt": "A beautiful anime style illustration, a girl with long silver hair standing under a starry night sky, glowing fireflies around her, vibrant colors, Studio Ghibli style, highly detailed.",
+        "score": 0.2287
+      },
+      {
+        "name": "02_anime_city",
+        "prompt": "Anime style cyberpunk city at night, neon signs reflecting on wet streets, a lone girl with an umbrella, Makoto Shinkai style, cinematic lighting.",
+        "score": 0.3027
+      },
+      {
+        "name": "03_anime_dragon",
+        "prompt": "A majestic anime style dragon flying above clouds at sunset, golden scales shining, epic fantasy scene, detailed illustration.",
+        "score": 0.1596
+      },
+      {
+        "name": "04_photo_dog",
+        "prompt": "A photorealistic portrait of a golden retriever puppy sitting on a wooden floor, soft natural window light, shallow depth of field, 85mm lens.",
+        "score": 0.2871
+      },
+      {
+        "name": "05_photo_landscape",
+        "prompt": "Photorealistic landscape of snow-capped mountains reflected in a calm alpine lake at sunrise, dramatic clouds, ultra detailed, nature photography.",
+        "score": 0.2213
+      },
+      {
+        "name": "06_photo_food",
+        "prompt": "A close-up photograph of a rustic sourdough pizza fresh from a wood-fired oven, melted cheese bubbling, basil leaves, moody restaurant lighting, food photography.",
+        "score": 0.1995
+      },
+      {
+        "name": "07_portrait_woman",
+        "prompt": "Photorealistic portrait of an elderly woman with kind wrinkles and silver hair, warm smile, golden hour light, 50mm portrait lens, bokeh background.",
+        "score": 0.2155
+      },
+      {
+        "name": "08_underwater",
+        "prompt": "A vivid underwater photograph of a coral reef with tropical fish, sunbeams piercing through turquoise water, National Geographic style.",
+        "score": 0.1512
+      },
+      {
+        "name": "09_sunset_beach",
+        "prompt": "A serene sunset over a tropical beach, palm trees silhouetted against orange and purple sky, gentle waves, travel photography.",
+        "score": 0.2252
+      },
+      {
+        "name": "10_snow_fox",
+        "prompt": "A red fox walking through deep snow in a birch forest, soft winter light, wildlife photography, shallow depth of field.",
+        "score": 0.2108
+      },
+      {
+        "name": "11_still_life",
+        "prompt": "Classical oil painting style still life, a bowl of ripe peaches and grapes on a wooden table, dramatic chiaroscuro lighting, Rembrandt style.",
+        "score": 0.1468
+      },
+      {
+        "name": "12_watercolor",
+        "prompt": "Loose watercolor painting of a small French village street with flower boxes, soft pastel washes, artistic paper texture.",
+        "score": 0.0391
+      },
+      {
+        "name": "13_ink_landscape",
+        "prompt": "Traditional Chinese ink wash painting of misty mountains with a lone fisherman on a boat, minimal elegant brushstrokes.",
+        "score": 0.0929
+      },
+      {
+        "name": "14_scifi_scene",
+        "prompt": "Sci-fi concept art, a colossal space station orbiting a gas giant, sleek white architecture, cinematic scale, concept art illustration.",
+        "score": 0.1532
+      },
+      {
+        "name": "15_fantasy_castle",
+        "prompt": "A majestic fantasy castle floating above clouds, waterfalls falling into the void, epic matte painting, dramatic lighting.",
+        "score": 0.2206
+      },
+      {
+        "name": "16_mech_robot",
+        "prompt": "A giant battle-worn mecha robot standing in a ruined city at dusk, detailed mechanical panels, anime sci-fi illustration.",
+        "score": 0.1596
+      },
+      {
+        "name": "17_cute_cat_chibi",
+        "prompt": "Chibi anime style cute orange cat wearing a tiny wizard hat, holding a star wand, pastel colors, kawaii illustration.",
+        "score": 0.2001
+      },
+      {
+        "name": "18_impressionist",
+        "prompt": "Impressionist oil painting of a garden full of blooming sunflowers, thick visible brushstrokes, Monet style, bright daylight.",
+        "score": 0.2256
+      },
+      {
+        "name": "19_night_market",
+        "prompt": "A bustling Asian night market street with red lanterns and food stalls, steam rising, crowd silhouettes, cinematic anime background art.",
+        "score": 0.3095
+      },
+      {
+        "name": "20_macro_flower",
+        "prompt": "Extreme macro photograph of a dew-covered purple iris flower, water droplets like crystals, morning backlight, ultra sharp detail.",
+        "score": 0.2038
+      }
+    ]
+  },
+  "batch20_e0sft": {
+    "num_images": 20,
+    "mean_clip_score": 0.2074,
+    "per_image": [
+      {
+        "name": "01_anime_girl",
+        "prompt": "A beautiful anime style illustration, a girl with long silver hair standing under a starry night sky, glowing fireflies around her, vibrant colors, Studio Ghibli style, highly detailed.",
+        "score": 0.2568
+      },
+      {
+        "name": "02_anime_city",
+        "prompt": "Anime style cyberpunk city at night, neon signs reflecting on wet streets, a lone girl with an umbrella, Makoto Shinkai style, cinematic lighting.",
+        "score": 0.2435
+      },
+      {
+        "name": "03_anime_dragon",
+        "prompt": "A majestic anime style dragon flying above clouds at sunset, golden scales shining, epic fantasy scene, detailed illustration.",
+        "score": 0.2091
+      },
+      {
+        "name": "04_photo_dog",
+        "prompt": "A photorealistic portrait of a golden retriever puppy sitting on a wooden floor, soft natural window light, shallow depth of field, 85mm lens.",
+        "score": 0.2585
+      },
+      {
+        "name": "05_photo_landscape",
+        "prompt": "Photorealistic landscape of snow-capped mountains reflected in a calm alpine lake at sunrise, dramatic clouds, ultra detailed, nature photography.",
+        "score": 0.2492
+      },
+      {
+        "name": "06_photo_food",
+        "prompt": "A close-up photograph of a rustic sourdough pizza fresh from a wood-fired oven, melted cheese bubbling, basil leaves, moody restaurant lighting, food photography.",
+        "score": 0.2513
+      },
+      {
+        "name": "07_portrait_woman",
+        "prompt": "Photorealistic portrait of an elderly woman with kind wrinkles and silver hair, warm smile, golden hour light, 50mm portrait lens, bokeh background.",
+        "score": 0.2001
+      },
+      {
+        "name": "08_underwater",
+        "prompt": "A vivid underwater photograph of a coral reef with tropical fish, sunbeams piercing through turquoise water, National Geographic style.",
+        "score": 0.2529
+      },
+      {
+        "name": "09_sunset_beach",
+        "prompt": "A serene sunset over a tropical beach, palm trees silhouetted against orange and purple sky, gentle waves, travel photography.",
+        "score": 0.2244
+      },
+      {
+        "name": "10_snow_fox",
+        "prompt": "A red fox walking through deep snow in a birch forest, soft winter light, wildlife photography, shallow depth of field.",
+        "score": 0.151
+      },
+      {
+        "name": "11_still_life",
+        "prompt": "Classical oil painting style still life, a bowl of ripe peaches and grapes on a wooden table, dramatic chiaroscuro lighting, Rembrandt style.",
+        "score": 0.2209
+      },
+      {
+        "name": "12_watercolor",
+        "prompt": "Loose watercolor painting of a small French village street with flower boxes, soft pastel washes, artistic paper texture.",
+        "score": 0.0995
+      },
+      {
+        "name": "13_ink_landscape",
+        "prompt": "Traditional Chinese ink wash painting of misty mountains with a lone fisherman on a boat, minimal elegant brushstrokes.",
+        "score": 0.141
+      },
+      {
+        "name": "14_scifi_scene",
+        "prompt": "Sci-fi concept art, a colossal space station orbiting a gas giant, sleek white architecture, cinematic scale, concept art illustration.",
+        "score": 0.1951
+      },
+      {
+        "name": "15_fantasy_castle",
+        "prompt": "A majestic fantasy castle floating above clouds, waterfalls falling into the void, epic matte painting, dramatic lighting.",
+        "score": 0.1278
+      },
+      {
+        "name": "16_mech_robot",
+        "prompt": "A giant battle-worn mecha robot standing in a ruined city at dusk, detailed mechanical panels, anime sci-fi illustration.",
+        "score": 0.178
+      },
+      {
+        "name": "17_cute_cat_chibi",
+        "prompt": "Chibi anime style cute orange cat wearing a tiny wizard hat, holding a star wand, pastel colors, kawaii illustration.",
+        "score": 0.2276
+      },
+      {
+        "name": "18_impressionist",
+        "prompt": "Impressionist oil painting of a garden full of blooming sunflowers, thick visible brushstrokes, Monet style, bright daylight.",
+        "score": 0.222
+      },
+      {
+        "name": "19_night_market",
+        "prompt": "A bustling Asian night market street with red lanterns and food stalls, steam rising, crowd silhouettes, cinematic anime background art.",
+        "score": 0.2581
+      },
+      {
+        "name": "20_macro_flower",
+        "prompt": "Extreme macro photograph of a dew-covered purple iris flower, water droplets like crystals, morning backlight, ultra sharp detail.",
+        "score": 0.1816
+      }
+    ]
+  }
+}

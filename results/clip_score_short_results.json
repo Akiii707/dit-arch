@@ -1,0 +1,320 @@
+{
+  "batch20": {
+    "num_images": 20,
+    "mean_clip_score": 0.2145,
+    "per_image": [
+      {
+        "name": "01_anime_girl",
+        "prompt": "a beautiful anime girl with silver hair under a starry sky",
+        "score": 0.2408
+      },
+      {
+        "name": "02_anime_city",
+        "prompt": "anime cyberpunk city at night with neon signs",
+        "score": 0.2825
+      },
+      {
+        "name": "03_anime_dragon",
+        "prompt": "a majestic anime dragon flying above clouds at sunset",
+        "score": 0.1694
+      },
+      {
+        "name": "04_photo_dog",
+        "prompt": "a golden retriever puppy sitting on a wooden floor",
+        "score": 0.2904
+      },
+      {
+        "name": "05_photo_landscape",
+        "prompt": "snow-capped mountains reflected in an alpine lake at sunrise",
+        "score": 0.1872
+      },
+      {
+        "name": "06_photo_food",
+        "prompt": "a rustic sourdough pizza fresh from a wood-fired oven",
+        "score": 0.1817
+      },
+      {
+        "name": "07_portrait_woman",
+        "prompt": "an elderly woman with silver hair and a warm smile",
+        "score": 0.1405
+      },
+      {
+        "name": "08_underwater",
+        "prompt": "a coral reef with tropical fish in turquoise water",
+        "score": 0.2345
+      },
+      {
+        "name": "09_sunset_beach",
+        "prompt": "a serene sunset over a tropical beach with palm trees",
+        "score": 0.251
+      },
+      {
+        "name": "10_snow_fox",
+        "prompt": "a red fox walking through deep snow in a birch forest",
+        "score": 0.2737
+      },
+      {
+        "name": "11_still_life",
+        "prompt": "a still life of peaches and grapes on a wooden table",
+        "score": 0.2024
+      },
+      {
+        "name": "12_watercolor",
+        "prompt": "a watercolor painting of a small French village street",
+        "score": 0.1704
+      },
+      {
+        "name": "13_ink_landscape",
+        "prompt": "a Chinese ink wash painting of misty mountains with a fisherman",
+        "score": 0.1946
+      },
+      {
+        "name": "14_scifi_scene",
+        "prompt": "a colossal space station orbiting a gas giant",
+        "score": 0.1302
+      },
+      {
+        "name": "15_fantasy_castle",
+        "prompt": "a majestic fantasy castle floating above clouds",
+        "score": 0.2102
+      },
+      {
+        "name": "16_mech_robot",
+        "prompt": "a giant battle-worn mecha robot in a ruined city",
+        "score": 0.1863
+      },
+      {
+        "name": "17_cute_cat_chibi",
+        "prompt": "a cute chibi orange cat wearing a wizard hat",
+        "score": 0.1951
+      },
+      {
+        "name": "18_impressionist",
+        "prompt": "an impressionist painting of a garden with sunflowers",
+        "score": 0.268
+      },
+      {
+        "name": "19_night_market",
+        "prompt": "a bustling Asian night market with red lanterns",
+        "score": 0.2433
+      },
+      {
+        "name": "20_macro_flower",
+        "prompt": "a macro photograph of a purple iris flower with dew drops",
+        "score": 0.2382
+      }
+    ]
+  },
+  "batch20_b0": {
+    "num_images": 20,
+    "mean_clip_score": 0.1846,
+    "per_image": [
+      {
+        "name": "01_anime_girl",
+        "prompt": "a beautiful anime girl with silver hair under a starry sky",
+        "score": 0.1868
+      },
+      {
+        "name": "02_anime_city",
+        "prompt": "anime cyberpunk city at night with neon signs",
+        "score": 0.3048
+      },
+      {
+        "name": "03_anime_dragon",
+        "prompt": "a majestic anime dragon flying above clouds at sunset",
+        "score": 0.1404
+      },
+      {
+        "name": "04_photo_dog",
+        "prompt": "a golden retriever puppy sitting on a wooden floor",
+        "score": 0.2739
+      },
+      {
+        "name": "05_photo_landscape",
+        "prompt": "snow-capped mountains reflected in an alpine lake at sunrise",
+        "score": 0.1905
+      },
+      {
+        "name": "06_photo_food",
+        "prompt": "a rustic sourdough pizza fresh from a wood-fired oven",
+        "score": 0.1278
+      },
+      {
+        "name": "07_portrait_woman",
+        "prompt": "an elderly woman with silver hair and a warm smile",
+        "score": 0.1623
+      },
+      {
+        "name": "08_underwater",
+        "prompt": "a coral reef with tropical fish in turquoise water",
+        "score": 0.0987
+      },
+      {
+        "name": "09_sunset_beach",
+        "prompt": "a serene sunset over a tropical beach with palm trees",
+        "score": 0.2295
+      },
+      {
+        "name": "10_snow_fox",
+        "prompt": "a red fox walking through deep snow in a birch forest",
+        "score": 0.2074
+      },
+      {
+        "name": "11_still_life",
+        "prompt": "a still life of peaches and grapes on a wooden table",
+        "score": 0.1459
+      },
+      {
+        "name": "12_watercolor",
+        "prompt": "a watercolor painting of a small French village street",
+        "score": 0.0723
+      },
+      {
+        "name": "13_ink_landscape",
+        "prompt": "a Chinese ink wash painting of misty mountains with a fisherman",
+        "score": 0.1169
+      },
+      {
+        "name": "14_scifi_scene",
+        "prompt": "a colossal space station orbiting a gas giant",
+        "score": 0.1749
+      },
+      {
+        "name": "15_fantasy_castle",
+        "prompt": "a majestic fantasy castle floating above clouds",
+        "score": 0.1815
+      },
+      {
+        "name": "16_mech_robot",
+        "prompt": "a giant battle-worn mecha robot in a ruined city",
+        "score": 0.1794
+      },
+      {
+        "name": "17_cute_cat_chibi",
+        "prompt": "a cute chibi orange cat wearing a wizard hat",
+        "score": 0.1675
+      },
+      {
+        "name": "18_impressionist",
+        "prompt": "an impressionist painting of a garden with sunflowers",
+        "score": 0.2264
+      },
+      {
+        "name": "19_night_market",
+        "prompt": "a bustling Asian night market with red lanterns",
+        "score": 0.2906
+      },
+      {
+        "name": "20_macro_flower",
+        "prompt": "a macro photograph of a purple iris flower with dew drops",
+        "score": 0.2147
+      }
+    ]
+  },
+  "batch20_e0sft": {
+    "num_images": 20,
+    "mean_clip_score": 0.1891,
+    "per_image": [
+      {
+        "name": "01_anime_girl",
+        "prompt": "a beautiful anime girl with silver hair under a starry sky",
+        "score": 0.1956
+      },
+      {
+        "name": "02_anime_city",
+        "prompt": "anime cyberpunk city at night with neon signs",
+        "score": 0.2307
+      },
+      {
+        "name": "03_anime_dragon",
+        "prompt": "a majestic anime dragon flying above clouds at sunset",
+        "score": 0.1981
+      },
+      {
+        "name": "04_photo_dog",
+        "prompt": "a golden retriever puppy sitting on a wooden floor",
+        "score": 0.2483
+      },
+      {
+        "name": "05_photo_landscape",
+        "prompt": "snow-capped mountains reflected in an alpine lake at sunrise",
+        "score": 0.2335
+      },
+      {
+        "name": "06_photo_food",
+        "prompt": "a rustic sourdough pizza fresh from a wood-fired oven",
+        "score": 0.1404
+      },
+      {
+        "name": "07_portrait_woman",
+        "prompt": "an elderly woman with silver hair and a warm smile",
+        "score": 0.1343
+      },
+      {
+        "name": "08_underwater",
+        "prompt": "a coral reef with tropical fish in turquoise water",
+        "score": 0.2243
+      },
+      {
+        "name": "09_sunset_beach",
+        "prompt": "a serene sunset over a tropical beach with palm trees",
+        "score": 0.2307
+      },
+      {
+        "name": "10_snow_fox",
+        "prompt": "a red fox walking through deep snow in a birch forest",
+        "score": 0.1514
+      },
+      {
+        "name": "11_still_life",
+        "prompt": "a still life of peaches and grapes on a wooden table",
+        "score": 0.2041
+      },
+      {
+        "name": "12_watercolor",
+        "prompt": "a watercolor painting of a small French village street",
+        "score": 0.1273
+      },
+      {
+        "name": "13_ink_landscape",
+        "prompt": "a Chinese ink wash painting of misty mountains with a fisherman",
+        "score": 0.1361
+      },
+      {
+        "name": "14_scifi_scene",
+        "prompt": "a colossal space station orbiting a gas giant",
+        "score": 0.2213
+      },
+      {
+        "name": "15_fantasy_castle",
+        "prompt": "a majestic fantasy castle floating above clouds",
+        "score": 0.0952
+      },
+      {
+        "name": "16_mech_robot",
+        "prompt": "a giant battle-worn mecha robot in a ruined city",
+        "score": 0.1892
+      },
+      {
+        "name": "17_cute_cat_chibi",
+        "prompt": "a cute chibi orange cat wearing a wizard hat",
+        "score": 0.1729
+      },
+      {
+        "name": "18_impressionist",
+        "prompt": "an impressionist painting of a garden with sunflowers",
+        "score": 0.2334
+      },
+      {
+        "name": "19_night_market",
+        "prompt": "a bustling Asian night market with red lanterns",
+        "score": 0.2333
+      },
+      {
+        "name": "20_macro_flower",
+        "prompt": "a macro photograph of a purple iris flower with dew drops",
+        "score": 0.1829
+      }
+    ]
+  }
+}

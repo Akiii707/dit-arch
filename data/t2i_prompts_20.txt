@@ -1,0 +1,20 @@
+01_anime_girl|A beautiful anime style illustration, a girl with long silver hair standing under a starry night sky, glowing fireflies around her, vibrant colors, Studio Ghibli style, highly detailed.
+02_anime_city|Anime style cyberpunk city at night, neon signs reflecting on wet streets, a lone girl with an umbrella, Makoto Shinkai style, cinematic lighting.
+03_anime_dragon|A majestic anime style dragon flying above clouds at sunset, golden scales shining, epic fantasy scene, detailed illustration.
+04_photo_dog|A photorealistic portrait of a golden retriever puppy sitting on a wooden floor, soft natural window light, shallow depth of field, 85mm lens.
+05_photo_landscape|Photorealistic landscape of snow-capped mountains reflected in a calm alpine lake at sunrise, dramatic clouds, ultra detailed, nature photography.
+06_photo_food|A close-up photograph of a rustic sourdough pizza fresh from a wood-fired oven, melted cheese bubbling, basil leaves, moody restaurant lighting, food photography.
+07_portrait_woman|Photorealistic portrait of an elderly woman with kind wrinkles and silver hair, warm smile, golden hour light, 50mm portrait lens, bokeh background.
+08_underwater|A vivid underwater photograph of a coral reef with tropical fish, sunbeams piercing through turquoise water, National Geographic style.
+09_sunset_beach|A serene sunset over a tropical beach, palm trees silhouetted against orange and purple sky, gentle waves, travel photography.
+10_snow_fox|A red fox walking through deep snow in a birch forest, soft winter light, wildlife photography, shallow depth of field.
+11_still_life|Classical oil painting style still life, a bowl of ripe peaches and grapes on a wooden table, dramatic chiaroscuro lighting, Rembrandt style.
+12_watercolor|Loose watercolor painting of a small French village street with flower boxes, soft pastel washes, artistic paper texture.
+13_ink_landscape|Traditional Chinese ink wash painting of misty mountains with a lone fisherman on a boat, minimal elegant brushstrokes.
+14_scifi_scene|Sci-fi concept art, a colossal space station orbiting a gas giant, sleek white architecture, cinematic scale, concept art illustration.
+15_fantasy_castle|A majestic fantasy castle floating above clouds, waterfalls falling into the void, epic matte painting, dramatic lighting.
+16_mech_robot|A giant battle-worn mecha robot standing in a ruined city at dusk, detailed mechanical panels, anime sci-fi illustration.
+17_cute_cat_chibi|Chibi anime style cute orange cat wearing a tiny wizard hat, holding a star wand, pastel colors, kawaii illustration.
+18_impressionist|Impressionist oil painting of a garden full of blooming sunflowers, thick visible brushstrokes, Monet style, bright daylight.
+19_night_market|A bustling Asian night market street with red lanterns and food stalls, steam rising, crowd silhouettes, cinematic anime background art.
+20_macro_flower|Extreme macro photograph of a dew-covered purple iris flower, water droplets like crystals, morning backlight, ultra sharp detail.

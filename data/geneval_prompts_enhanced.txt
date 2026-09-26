@@ -1,0 +1,553 @@
+0001_single_object|a photo of a bench in a park, high quality, detailed, sharp focus
+0002_single_object|a photo of a cow in a field, high quality, detailed, sharp focus
+0003_single_object|a photo of a bicycle on a street, clear, detailed, realistic
+0004_single_object|a photo of a clock on a wall, professional photography, well-lit
+0005_single_object|a photo of a carrot on a table, professional photography, well-lit
+0006_single_object|a photo of a suitcase on the floor, professional photography, well-lit
+0007_single_object|a photo of a fork on a dining table, high quality, detailed, sharp focus
+0008_single_object|a photo of a surfboard on a beach, sharp, detailed, studio quality
+0009_single_object|a photo of a refrigerator in a kitchen, high quality, detailed, sharp focus
+0010_single_object|a photo of a cup on a table, sharp, detailed, studio quality
+0011_single_object|a photo of a microwave on a kitchen counter, high resolution, natural lighting
+0012_single_object|a photo of a potted plant in a corner, high quality, detailed, sharp focus
+0013_single_object|a photo of a snowboard on snow, high quality, detailed, sharp focus
+0014_single_object|a photo of a zebra in a savanna, high quality, detailed, sharp focus
+0015_single_object|a photo of a parking meter on a sidewalk, professional photography, well-lit
+0016_single_object|a photo of a spoon on a dining table, professional photography, well-lit
+0017_single_object|a photo of a skateboard on a street, sharp, detailed, studio quality
+0018_single_object|a photo of a car on a road, sharp, detailed, studio quality
+0019_single_object|a photo of a motorcycle on a road, high quality, detailed, sharp focus
+0020_single_object|a photo of a traffic light at an intersection, sharp, detailed, studio quality
+0021_single_object|a photo of a book on a table, professional photography, well-lit
+0022_single_object|a photo of a couch in a living room, sharp, detailed, studio quality
+0023_single_object|a photo of a backpack on the floor, high resolution, natural lighting
+0024_single_object|a photo of a computer keyboard on a desk, professional photography, well-lit
+0025_single_object|a photo of a toaster on a kitchen counter, high resolution, natural lighting
+0026_single_object|a photo of a bird on a branch, sharp, detailed, studio quality
+0027_single_object|a photo of a bowl on a table, clear, detailed, realistic
+0028_single_object|a photo of a dog in a park, high quality, detailed, sharp focus
+0029_single_object|a photo of a tie on a hanger, professional photography, well-lit
+0030_single_object|a photo of a laptop on a desk, high resolution, natural lighting
+0031_single_object|a photo of a computer mouse on a desk, clear, detailed, realistic
+0032_single_object|a photo of a sandwich on a plate, clear, detailed, realistic
+0033_single_object|a photo of a baseball bat on a field, professional photography, well-lit
+0034_single_object|a photo of a train on tracks, professional photography, well-lit
+0035_single_object|a photo of a cell phone in hand, clear, detailed, realistic
+0036_single_object|a photo of a chair in a room, high quality, detailed, sharp focus
+0037_single_object|a photo of a tv in a living room, high quality, detailed, sharp focus
+0038_single_object|a photo of a broccoli on a table, high resolution, natural lighting
+0039_single_object|a photo of a bed in a bedroom, high quality, detailed, sharp focus
+0040_single_object|a photo of a skis on snow, clear, detailed, realistic
+0041_single_object|a photo of a handbag on a chair, clear, detailed, realistic
+0042_single_object|a photo of a pizza on a table, sharp, detailed, studio quality
+0043_single_object|a photo of a frisbee in a park, clear, detailed, realistic
+0044_single_object|a photo of a scissors on a desk, high quality, detailed, sharp focus
+0045_single_object|a photo of a bottle on a table, high resolution, natural lighting
+0046_single_object|a photo of an elephant in a savanna, sharp, detailed, studio quality
+0047_single_object|a photo of a toilet in a bathroom, high quality, detailed, sharp focus
+0048_single_object|a photo of an oven in a kitchen, high resolution, natural lighting
+0049_single_object|a photo of an orange on a table, high quality, detailed, sharp focus
+0050_single_object|a photo of a person in a natural setting, sharp, detailed, studio quality
+0051_single_object|a photo of a teddy bear on a bed, clear, detailed, realistic
+0052_single_object|a photo of a vase on a table, sharp, detailed, studio quality
+0053_single_object|a photo of a banana on a table, clear, detailed, realistic
+0054_single_object|a photo of a toothbrush in a bathroom, sharp, detailed, studio quality
+0055_single_object|a photo of a tv remote in a living room, professional photography, well-lit
+0056_single_object|a photo of a dining table in a dining room, high quality, detailed, sharp focus
+0057_single_object|a photo of a stop sign at a street corner, high quality, detailed, sharp focus
+0058_single_object|a photo of a sheep in a meadow, professional photography, well-lit
+0059_single_object|a photo of a fire hydrant on a sidewalk, clear, detailed, realistic
+0060_single_object|a photo of an airplane in the sky, high quality, detailed, sharp focus
+0061_single_object|a photo of a giraffe in a savanna, professional photography, well-lit
+0062_single_object|a photo of a horse in a field, high quality, detailed, sharp focus
+0063_single_object|a photo of a cat in a garden, high resolution, natural lighting
+0064_single_object|a photo of a donut on a plate, clear, detailed, realistic
+0065_single_object|a photo of a boat on water, high resolution, natural lighting
+0066_single_object|a photo of a baseball glove on a field, clear, detailed, realistic
+0067_single_object|a photo of a hair drier in a bathroom, professional photography, well-lit
+0068_single_object|a photo of a sink in a bathroom, clear, detailed, realistic
+0069_single_object|a photo of a cake on a plate, clear, detailed, realistic
+0070_single_object|a photo of a wine glass on a table, professional photography, well-lit
+0071_single_object|a photo of an apple on a table, clear, detailed, realistic
+0072_single_object|a photo of a bus on a street, high quality, detailed, sharp focus
+0073_single_object|a photo of a tennis racket on a court, sharp, detailed, studio quality
+0074_single_object|a photo of a knife on a dining table, professional photography, well-lit
+0075_single_object|a photo of a hot dog on a plate, sharp, detailed, studio quality
+0076_single_object|a photo of a truck on a road, professional photography, well-lit
+0077_single_object|a photo of an umbrella outdoors, professional photography, well-lit
+0078_single_object|a photo of a sports ball on a field, high resolution, natural lighting
+0079_single_object|a photo of a bear in a forest, high resolution, natural lighting
+0080_single_object|a photo of a kite in the sky, clear, detailed, realistic
+0081_two_object|a photo of a bench and a sports ball side by side in a park, sharp, detailed, studio quality
+0082_two_object|a photo of a toothbrush and a snowboard side by side in a bathroom, clear, detailed, realistic
+0083_two_object|a photo of a toaster and an oven side by side on a kitchen counter, professional photography, well-lit
+0084_two_object|a photo of a broccoli and a vase next to each other on a table, clear, detailed, realistic
+0085_two_object|a photo of a tennis racket and a wine glass side by side on a court, clear, detailed, realistic
+0086_two_object|a photo of a fork and a knife placed together on a dining table, professional photography, well-lit
+0087_two_object|a photo of a hair drier and a cake side by side in a bathroom, clear, detailed, realistic
+0088_two_object|a photo of a horse and a giraffe next to each other in a field, high resolution, natural lighting
+0089_two_object|a photo of a horse and a computer keyboard side by side in a field, high resolution, natural lighting
+0090_two_object|a photo of a toothbrush and a carrot side by side in a bathroom, clear, detailed, realistic
+0091_two_object|a photo of a cake and a zebra placed together on a plate, professional photography, well-lit
+0092_two_object|a photo of a hair drier and a bear placed together in a bathroom, sharp, detailed, studio quality
+0093_two_object|a photo of a knife and a zebra placed together on a dining table, clear, detailed, realistic
+0094_two_object|a photo of a couch and a wine glass next to each other in a living room, sharp, detailed, studio quality
+0095_two_object|a photo of a frisbee and a vase next to each other in a park, sharp, detailed, studio quality
+0096_two_object|a photo of a book and a laptop side by side on a table, clear, detailed, realistic
+0097_two_object|a photo of a dining table and a bear placed together in a dining room, professional photography, well-lit
+0098_two_object|a photo of a frisbee and a couch side by side in a park, high resolution, natural lighting
+0099_two_object|a photo of a couch and a horse side by side in a living room, high quality, detailed, sharp focus
+0100_two_object|a photo of a toilet and a computer mouse placed together in a bathroom, professional photography, well-lit
+0101_two_object|a photo of a bottle and a refrigerator placed together on a table, professional photography, well-lit
+0102_two_object|a photo of a potted plant and a backpack placed together in a corner, high resolution, natural lighting
+0103_two_object|a photo of a skateboard and a cake next to each other on a street, high quality, detailed, sharp focus
+0104_two_object|a photo of a broccoli and a parking meter placed together on a table, high resolution, natural lighting
+0105_two_object|a photo of a zebra and a bed placed together in a savanna, high resolution, natural lighting
+0106_two_object|a photo of an oven and a bed placed together in a kitchen, clear, detailed, realistic
+0107_two_object|a photo of a baseball bat and a fork placed together on a field, high quality, detailed, sharp focus
+0108_two_object|a photo of a vase and a spoon placed together on a table, high quality, detailed, sharp focus
+0109_two_object|a photo of a skateboard and a sink next to each other on a street, sharp, detailed, studio quality
+0110_two_object|a photo of a pizza and a bench side by side on a table, clear, detailed, realistic
+0111_two_object|a photo of a bowl and a pizza next to each other on a table, clear, detailed, realistic
+0112_two_object|a photo of a tennis racket and a bird next to each other on a court, professional photography, well-lit
+0113_two_object|a photo of a wine glass and a bear placed together on a table, high quality, detailed, sharp focus
+0114_two_object|a photo of a fork and a book placed together on a dining table, clear, detailed, realistic
+0115_two_object|a photo of a scissors and a bowl placed together on a desk, professional photography, well-lit
+0116_two_object|a photo of a laptop and a carrot placed together on a desk, high quality, detailed, sharp focus
+0117_two_object|a photo of a stop sign and a bottle placed together at a street corner, clear, detailed, realistic
+0118_two_object|a photo of a microwave and a truck placed together on a kitchen counter, sharp, detailed, studio quality
+0119_two_object|a photo of a person and a bear side by side in a natural setting, professional photography, well-lit
+0120_two_object|a photo of a frisbee and a cell phone side by side in a park, clear, detailed, realistic
+0121_two_object|a photo of a parking meter and a teddy bear placed together on a sidewalk, sharp, detailed, studio quality
+0122_two_object|a photo of a tennis racket and a bicycle placed together on a court, high quality, detailed, sharp focus
+0123_two_object|a photo of a stop sign and a motorcycle next to each other at a street corner, clear, detailed, realistic
+0124_two_object|a photo of a fire hydrant and a tennis racket side by side on a sidewalk, high quality, detailed, sharp focus
+0125_two_object|a photo of a scissors and a sandwich next to each other on a desk, clear, detailed, realistic
+0126_two_object|a photo of a pizza and a book side by side on a table, professional photography, well-lit
+0127_two_object|a photo of a giraffe and a computer mouse placed together in a savanna, professional photography, well-lit
+0128_two_object|a photo of a stop sign and a toaster side by side at a street corner, high quality, detailed, sharp focus
+0129_two_object|a photo of a computer mouse and a zebra side by side on a desk, high resolution, natural lighting
+0130_two_object|a photo of a chair and a bench side by side in a room, sharp, detailed, studio quality
+0131_two_object|a photo of a tv and a carrot placed together in a living room, professional photography, well-lit
+0132_two_object|a photo of a surfboard and a suitcase placed together on a beach, high resolution, natural lighting
+0133_two_object|a photo of a computer keyboard and a laptop next to each other on a desk, professional photography, well-lit
+0134_two_object|a photo of a computer keyboard and a microwave placed together on a desk, sharp, detailed, studio quality
+0135_two_object|a photo of a scissors and a bird side by side on a desk, high resolution, natural lighting
+0136_two_object|a photo of a person and a snowboard placed together in a natural setting, sharp, detailed, studio quality
+0137_two_object|a photo of a cow and a horse placed together in a field, professional photography, well-lit
+0138_two_object|a photo of a handbag and a refrigerator next to each other on a chair, clear, detailed, realistic
+0139_two_object|a photo of a chair and a laptop next to each other in a room, clear, detailed, realistic
+0140_two_object|a photo of a toothbrush and a bench next to each other in a bathroom, sharp, detailed, studio quality
+0141_two_object|a photo of a book and a baseball bat side by side on a table, high quality, detailed, sharp focus
+0142_two_object|a photo of a horse and a train side by side in a field, professional photography, well-lit
+0143_two_object|a photo of a bench and a vase side by side in a park, clear, detailed, realistic
+0144_two_object|a photo of a traffic light and a backpack placed together at an intersection, sharp, detailed, studio quality
+0145_two_object|a photo of a sports ball and a cow placed together on a field, professional photography, well-lit
+0146_two_object|a photo of a computer mouse and a spoon side by side on a desk, professional photography, well-lit
+0147_two_object|a photo of a tv and a bicycle placed together in a living room, high quality, detailed, sharp focus
+0148_two_object|a photo of a bench and a snowboard side by side in a park, high quality, detailed, sharp focus
+0149_two_object|a photo of a toothbrush and a toilet side by side in a bathroom, high quality, detailed, sharp focus
+0150_two_object|a photo of a person and an apple side by side in a natural setting, clear, detailed, realistic
+0151_two_object|a photo of a sink and a sports ball side by side in a bathroom, sharp, detailed, studio quality
+0152_two_object|a photo of a stop sign and a dog placed together at a street corner, clear, detailed, realistic
+0153_two_object|a photo of a knife and a stop sign side by side on a dining table, high resolution, natural lighting
+0154_two_object|a photo of a wine glass and a handbag side by side on a table, sharp, detailed, studio quality
+0155_two_object|a photo of a bowl and a skis placed together on a table, sharp, detailed, studio quality
+0156_two_object|a photo of a frisbee and an apple side by side in a park, high resolution, natural lighting
+0157_two_object|a photo of a computer keyboard and a cell phone next to each other on a desk, high resolution, natural lighting
+0158_two_object|a photo of a stop sign and a fork side by side at a street corner, professional photography, well-lit
+0159_two_object|a photo of a potted plant and a boat placed together in a corner, high quality, detailed, sharp focus
+0160_two_object|a photo of a tv and a cell phone next to each other in a living room, high resolution, natural lighting
+0161_two_object|a photo of a tie and a broccoli next to each other on a hanger, high resolution, natural lighting
+0162_two_object|a photo of a potted plant and a donut placed together in a corner, high resolution, natural lighting
+0163_two_object|a photo of a person and a sink placed together in a natural setting, high quality, detailed, sharp focus
+0164_two_object|a photo of a couch and a snowboard side by side in a living room, high quality, detailed, sharp focus
+0165_two_object|a photo of a fork and a baseball glove placed together on a dining table, high resolution, natural lighting
+0166_two_object|a photo of an apple and a toothbrush side by side on a table, clear, detailed, realistic
+0167_two_object|a photo of a bus and a baseball glove side by side on a street, professional photography, well-lit
+0168_two_object|a photo of a person and a stop sign placed together in a natural setting, professional photography, well-lit
+0169_two_object|a photo of a carrot and a couch side by side on a table, high resolution, natural lighting
+0170_two_object|a photo of a baseball bat and a bear side by side on a field, high resolution, natural lighting
+0171_two_object|a photo of a fire hydrant and a train next to each other on a sidewalk, clear, detailed, realistic
+0172_two_object|a photo of a baseball glove and a carrot side by side on a field, professional photography, well-lit
+0173_two_object|a photo of a microwave and a bench placed together on a kitchen counter, high resolution, natural lighting
+0174_two_object|a photo of a cake and a stop sign side by side on a plate, high quality, detailed, sharp focus
+0175_two_object|a photo of a car and a computer mouse side by side on a road, sharp, detailed, studio quality
+0176_two_object|a photo of a suitcase and a dining table side by side on the floor, high quality, detailed, sharp focus
+0177_two_object|a photo of a person and a traffic light next to each other in a natural setting, professional photography, well-lit
+0178_two_object|a photo of a cell phone and a horse next to each other in hand, high resolution, natural lighting
+0179_two_object|a photo of a baseball bat and a giraffe next to each other on a field, professional photography, well-lit
+0180_counting|a photo of two clocks arranged neatly together on a wall, high quality, detailed, sharp focus
+0181_counting|a photo of two backpacks arranged neatly together on the floor, professional photography, well-lit
+0182_counting|a photo of four handbags arranged in a group on a chair, high resolution, natural lighting
+0183_counting|a photo of two frisbees arranged neatly together in a park, high quality, detailed, sharp focus
+0184_counting|a photo of three sports balls arranged in a row on a field, high resolution, natural lighting
+0185_counting|a photo of two bears arranged neatly together in a forest, clear, detailed, realistic
+0186_counting|a photo of two ties arranged neatly together on a hanger, high resolution, natural lighting
+0187_counting|a photo of four sinks arranged in a group in a bathroom, clear, detailed, realistic
+0188_counting|a photo of two toothbrushs arranged neatly together in a bathroom, high resolution, natural lighting
+0189_counting|a photo of three persons arranged in a row in a natural setting, sharp, detailed, studio quality
+0190_counting|a photo of three tennis rackets arranged in a row on a court, high resolution, natural lighting
+0191_counting|a photo of four bowls arranged in a group on a table, professional photography, well-lit
+0192_counting|a photo of four vases arranged in a group on a table, professional photography, well-lit
+0193_counting|a photo of three cups arranged in a row on a table, clear, detailed, realistic
+0194_counting|a photo of four computer keyboards arranged in a group on a desk, professional photography, well-lit
+0195_counting|a photo of three sinks arranged in a row in a bathroom, high quality, detailed, sharp focus
+0196_counting|a photo of two ovens arranged neatly together in a kitchen, sharp, detailed, studio quality
+0197_counting|a photo of two toilets arranged neatly together in a bathroom, sharp, detailed, studio quality
+0198_counting|a photo of two bicycles arranged neatly together on a street, high quality, detailed, sharp focus
+0199_counting|a photo of two trains arranged neatly together on tracks, clear, detailed, realistic
+0200_counting|a photo of three oranges arranged in a row on a table, high quality, detailed, sharp focus
+0201_counting|a photo of three buses arranged in a row on a street, high quality, detailed, sharp focus
+0202_counting|a photo of three handbags arranged in a row on a chair, sharp, detailed, studio quality
+0203_counting|a photo of three snowboards arranged in a row on snow, high resolution, natural lighting
+0204_counting|a photo of two snowboards arranged neatly together on snow, sharp, detailed, studio quality
+0205_counting|a photo of four dogs arranged in a group in a park, sharp, detailed, studio quality
+0206_counting|a photo of three apples arranged in a row on a table, professional photography, well-lit
+0207_counting|a photo of two sheeps arranged neatly together in a meadow, high quality, detailed, sharp focus
+0208_counting|a photo of three hot dogs arranged in a row on a plate, sharp, detailed, studio quality
+0209_counting|a photo of three zebras arranged in a row in a savanna, high quality, detailed, sharp focus
+0210_counting|a photo of three kites arranged in a row in the sky, professional photography, well-lit
+0211_counting|a photo of four apples arranged in a group on a table, high quality, detailed, sharp focus
+0212_counting|a photo of three cell phones arranged in a row in hand, sharp, detailed, studio quality
+0213_counting|a photo of four baseball gloves arranged in a group on a field, high quality, detailed, sharp focus
+0214_counting|a photo of three computer keyboards arranged in a row on a desk, professional photography, well-lit
+0215_counting|a photo of two beds arranged neatly together in a bedroom, high resolution, natural lighting
+0216_counting|a photo of two tv remotes arranged neatly together in a living room, high quality, detailed, sharp focus
+0217_counting|a photo of three fire hydrants arranged in a row on a sidewalk, sharp, detailed, studio quality
+0218_counting|a photo of three books arranged in a row on a table, professional photography, well-lit
+0219_counting|a photo of four giraffes arranged in a group in a savanna, sharp, detailed, studio quality
+0220_counting|a photo of two vases arranged neatly together on a table, sharp, detailed, studio quality
+0221_counting|a photo of four donuts arranged in a group on a plate, high quality, detailed, sharp focus
+0222_counting|a photo of four chairs arranged in a group in a room, sharp, detailed, studio quality
+0223_counting|a photo of three baseball bats arranged in a row on a field, high quality, detailed, sharp focus
+0224_counting|a photo of four stop signs arranged in a group at a street corner, high resolution, natural lighting
+0225_counting|a photo of two pizzas arranged neatly together on a table, sharp, detailed, studio quality
+0226_counting|a photo of three refrigerators arranged in a row in a kitchen, sharp, detailed, studio quality
+0227_counting|a photo of two fire hydrants arranged neatly together on a sidewalk, sharp, detailed, studio quality
+0228_counting|a photo of three giraffes arranged in a row in a savanna, clear, detailed, realistic
+0229_counting|a photo of four tvs arranged in a group in a living room, clear, detailed, realistic
+0230_counting|a photo of three wine glasses arranged in a row on a table, professional photography, well-lit
+0231_counting|a photo of four broccolis arranged in a group on a table, clear, detailed, realistic
+0232_counting|a photo of three trucks arranged in a row on a road, professional photography, well-lit
+0233_counting|a photo of two trucks arranged neatly together on a road, clear, detailed, realistic
+0234_counting|a photo of two carrots arranged neatly together on a table, high resolution, natural lighting
+0235_counting|a photo of two sandwichs arranged neatly together on a plate, professional photography, well-lit
+0236_counting|a photo of four traffic lights arranged in a group at an intersection, clear, detailed, realistic
+0237_counting|a photo of four clocks arranged in a group on a wall, high resolution, natural lighting
+0238_counting|a photo of two cars arranged neatly together on a road, clear, detailed, realistic
+0239_counting|a photo of two bananas arranged neatly together on a table, high quality, detailed, sharp focus
+0240_counting|a photo of two wine glasses arranged neatly together on a table, high quality, detailed, sharp focus
+0241_counting|a photo of three pizzas arranged in a row on a table, high resolution, natural lighting
+0242_counting|a photo of four knifes arranged in a group on a dining table, sharp, detailed, studio quality
+0243_counting|a photo of three suitcases arranged in a row on the floor, sharp, detailed, studio quality
+0244_counting|a photo of four zebras arranged in a group in a savanna, high quality, detailed, sharp focus
+0245_counting|a photo of two teddy bears arranged neatly together on a bed, high quality, detailed, sharp focus
+0246_counting|a photo of four skateboards arranged in a group on a street, sharp, detailed, studio quality
+0247_counting|a photo of four hot dogs arranged in a group on a plate, professional photography, well-lit
+0248_counting|a photo of three birds arranged in a row on a branch, sharp, detailed, studio quality
+0249_counting|a photo of four boats arranged in a group on water, clear, detailed, realistic
+0250_counting|a photo of four microwaves arranged in a group on a kitchen counter, professional photography, well-lit
+0251_counting|a photo of two hair driers arranged neatly together in a bathroom, clear, detailed, realistic
+0252_counting|a photo of three laptops arranged in a row on a desk, high quality, detailed, sharp focus
+0253_counting|a photo of three cows arranged in a row in a field, professional photography, well-lit
+0254_counting|a photo of two parking meters arranged neatly together on a sidewalk, clear, detailed, realistic
+0255_counting|a photo of four benchs arranged in a group in a park, clear, detailed, realistic
+0256_counting|a photo of three benchs arranged in a row in a park, professional photography, well-lit
+0257_counting|a photo of four frisbees arranged in a group in a park, high resolution, natural lighting
+0258_counting|a photo of four books arranged in a group on a table, sharp, detailed, studio quality
+0259_counting|a photo of four buses arranged in a group on a street, clear, detailed, realistic
+0260_colors|a photo of a blue fire hydrant on a sidewalk, with clear color visibility, sharp, detailed, studio quality
+0261_colors|a photo of a pink car on a road, with natural lighting highlighting the color, sharp, detailed, studio quality
+0262_colors|a photo of a purple cup on a table, well-lit to show the color clearly, sharp, detailed, studio quality
+0263_colors|a photo of a blue cow in a field, with natural lighting highlighting the color, high quality, detailed, sharp focus
+0264_colors|a photo of a yellow boat on water, with natural lighting highlighting the color, clear, detailed, realistic
+0265_colors|a photo of a blue umbrella outdoors, with clear color visibility, high quality, detailed, sharp focus
+0266_colors|a photo of a blue elephant in a savanna, with natural lighting highlighting the color, sharp, detailed, studio quality
+0267_colors|a photo of a yellow elephant in a savanna, well-lit to show the color clearly, clear, detailed, realistic
+0268_colors|a photo of a red bicycle on a street, with natural lighting highlighting the color, sharp, detailed, studio quality
+0269_colors|a photo of a purple suitcase on the floor, with natural lighting highlighting the color, clear, detailed, realistic
+0270_colors|a photo of a purple hair drier in a bathroom, with clear color visibility, clear, detailed, realistic
+0271_colors|a photo of a white sandwich on a plate, well-lit to show the color clearly, high resolution, natural lighting
+0272_colors|a photo of a purple elephant in a savanna, with natural lighting highlighting the color, high quality, detailed, sharp focus
+0273_colors|a photo of a green microwave on a kitchen counter, well-lit to show the color clearly, high resolution, natural lighting
+0274_colors|a photo of a red zebra in a savanna, with natural lighting highlighting the color, high quality, detailed, sharp focus
+0275_colors|a photo of a red apple on a table, with natural lighting highlighting the color, clear, detailed, realistic
+0276_colors|a photo of a yellow tv remote in a living room, with natural lighting highlighting the color, clear, detailed, realistic
+0277_colors|a photo of a blue toilet in a bathroom, with clear color visibility, high resolution, natural lighting
+0278_colors|a photo of an orange orange on a table, with clear color visibility, high resolution, natural lighting
+0279_colors|a photo of a black donut on a plate, with natural lighting highlighting the color, high quality, detailed, sharp focus
+0280_colors|a photo of a red vase on a table, with clear color visibility, high quality, detailed, sharp focus
+0281_colors|a photo of a purple pizza on a table, with clear color visibility, professional photography, well-lit
+0282_colors|a photo of a pink skateboard on a street, well-lit to show the color clearly, high quality, detailed, sharp focus
+0283_colors|a photo of a green skateboard on a street, with clear color visibility, sharp, detailed, studio quality
+0284_colors|a photo of a purple bear in a forest, well-lit to show the color clearly, professional photography, well-lit
+0285_colors|a photo of a brown chair in a room, with natural lighting highlighting the color, professional photography, well-lit
+0286_colors|a photo of a brown computer keyboard on a desk, well-lit to show the color clearly, clear, detailed, realistic
+0287_colors|a photo of an orange cow in a field, well-lit to show the color clearly, high quality, detailed, sharp focus
+0288_colors|a photo of a brown skis on snow, with clear color visibility, professional photography, well-lit
+0289_colors|a photo of a white kite in the sky, with clear color visibility, professional photography, well-lit
+0290_colors|a photo of a red dog in a park, well-lit to show the color clearly, high quality, detailed, sharp focus
+0291_colors|a photo of a green couch in a living room, well-lit to show the color clearly, sharp, detailed, studio quality
+0292_colors|a photo of a yellow airplane in the sky, with clear color visibility, sharp, detailed, studio quality
+0293_colors|a photo of an orange tv in a living room, with natural lighting highlighting the color, professional photography, well-lit
+0294_colors|a photo of a white scissors on a desk, with natural lighting highlighting the color, professional photography, well-lit
+0295_colors|a photo of a pink cell phone in hand, with natural lighting highlighting the color, high resolution, natural lighting
+0296_colors|a photo of a green surfboard on a beach, with clear color visibility, professional photography, well-lit
+0297_colors|a photo of a white fire hydrant on a sidewalk, well-lit to show the color clearly, clear, detailed, realistic
+0298_colors|a photo of a black bicycle on a street, well-lit to show the color clearly, professional photography, well-lit
+0299_colors|a photo of a purple carrot on a table, with clear color visibility, professional photography, well-lit
+0300_colors|a photo of a black dining table in a dining room, well-lit to show the color clearly, high quality, detailed, sharp focus
+0301_colors|a photo of a purple potted plant in a corner, well-lit to show the color clearly, high quality, detailed, sharp focus
+0302_colors|a photo of a purple backpack on the floor, with natural lighting highlighting the color, professional photography, well-lit
+0303_colors|a photo of a yellow train on tracks, well-lit to show the color clearly, high resolution, natural lighting
+0304_colors|a photo of a pink potted plant in a corner, with natural lighting highlighting the color, clear, detailed, realistic
+0305_colors|a photo of a red giraffe in a savanna, with natural lighting highlighting the color, professional photography, well-lit
+0306_colors|a photo of a brown bear in a forest, well-lit to show the color clearly, professional photography, well-lit
+0307_colors|a photo of a black train on tracks, well-lit to show the color clearly, clear, detailed, realistic
+0308_colors|a photo of an orange laptop on a desk, well-lit to show the color clearly, high quality, detailed, sharp focus
+0309_colors|a photo of a green hot dog on a plate, with clear color visibility, clear, detailed, realistic
+0310_colors|a photo of a yellow parking meter on a sidewalk, well-lit to show the color clearly, sharp, detailed, studio quality
+0311_colors|a photo of a red potted plant in a corner, well-lit to show the color clearly, sharp, detailed, studio quality
+0312_colors|a photo of a green traffic light at an intersection, with natural lighting highlighting the color, high quality, detailed, sharp focus
+0313_colors|a photo of a blue tv in a living room, with natural lighting highlighting the color, clear, detailed, realistic
+0314_colors|a photo of a brown refrigerator in a kitchen, well-lit to show the color clearly, sharp, detailed, studio quality
+0315_colors|a photo of a black tv remote in a living room, with natural lighting highlighting the color, high quality, detailed, sharp focus
+0316_colors|a photo of a purple scissors on a desk, well-lit to show the color clearly, sharp, detailed, studio quality
+0317_colors|a photo of a yellow orange on a table, with clear color visibility, clear, detailed, realistic
+0318_colors|a photo of a brown toaster on a kitchen counter, well-lit to show the color clearly, clear, detailed, realistic
+0319_colors|a photo of a red parking meter on a sidewalk, with clear color visibility, sharp, detailed, studio quality
+0320_colors|a photo of a brown orange on a table, well-lit to show the color clearly, high quality, detailed, sharp focus
+0321_colors|a photo of a green clock on a wall, with natural lighting highlighting the color, sharp, detailed, studio quality
+0322_colors|a photo of a white sheep in a meadow, with natural lighting highlighting the color, clear, detailed, realistic
+0323_colors|a photo of a yellow oven in a kitchen, with natural lighting highlighting the color, high resolution, natural lighting
+0324_colors|a photo of a green vase on a table, with clear color visibility, sharp, detailed, studio quality
+0325_colors|a photo of a black teddy bear on a bed, well-lit to show the color clearly, professional photography, well-lit
+0326_colors|a photo of a yellow carrot on a table, with natural lighting highlighting the color, high resolution, natural lighting
+0327_colors|a photo of a black hot dog on a plate, with clear color visibility, clear, detailed, realistic
+0328_colors|a photo of a red scissors on a desk, with clear color visibility, clear, detailed, realistic
+0329_colors|a photo of a white teddy bear on a bed, with clear color visibility, high quality, detailed, sharp focus
+0330_colors|a photo of a black skis on snow, with clear color visibility, clear, detailed, realistic
+0331_colors|a photo of a blue dining table in a dining room, with clear color visibility, clear, detailed, realistic
+0332_colors|a photo of a black refrigerator in a kitchen, well-lit to show the color clearly, high resolution, natural lighting
+0333_colors|a photo of a white dog in a park, with clear color visibility, high resolution, natural lighting
+0334_colors|a photo of an orange scissors on a desk, with clear color visibility, clear, detailed, realistic
+0335_colors|a photo of a red cell phone in hand, with natural lighting highlighting the color, professional photography, well-lit
+0336_colors|a photo of a white orange on a table, with clear color visibility, high resolution, natural lighting
+0337_colors|a photo of a blue clock on a wall, with clear color visibility, high resolution, natural lighting
+0338_colors|a photo of a blue carrot on a table, with clear color visibility, professional photography, well-lit
+0339_colors|a photo of a green motorcycle on a road, well-lit to show the color clearly, sharp, detailed, studio quality
+0340_colors|a photo of a pink stop sign at a street corner, with clear color visibility, high resolution, natural lighting
+0341_colors|a photo of a black vase on a table, well-lit to show the color clearly, high quality, detailed, sharp focus
+0342_colors|a photo of a black backpack on the floor, with natural lighting highlighting the color, clear, detailed, realistic
+0343_colors|a photo of a red car on a road, with clear color visibility, high resolution, natural lighting
+0344_colors|a photo of a green computer mouse on a desk, with clear color visibility, sharp, detailed, studio quality
+0345_colors|a photo of a red backpack on the floor, well-lit to show the color clearly, clear, detailed, realistic
+0346_colors|a photo of a green bus on a street, well-lit to show the color clearly, high resolution, natural lighting
+0347_colors|a photo of an orange toaster on a kitchen counter, with clear color visibility, professional photography, well-lit
+0348_colors|a photo of a yellow fork on a dining table, with clear color visibility, high resolution, natural lighting
+0349_colors|a photo of a pink parking meter on a sidewalk, with clear color visibility, professional photography, well-lit
+0350_colors|a photo of a blue book on a table, well-lit to show the color clearly, high quality, detailed, sharp focus
+0351_colors|a photo of a yellow broccoli on a table, with clear color visibility, sharp, detailed, studio quality
+0352_colors|a photo of an orange computer mouse on a desk, well-lit to show the color clearly, sharp, detailed, studio quality
+0353_colors|a photo of a red cake on a plate, with natural lighting highlighting the color, high quality, detailed, sharp focus
+0354_position|a photo of a dog positioned to the right of a teddy bear in a park, clear, detailed, realistic
+0355_position|a photo of a wine glass placed above a kite on a table, professional photography, well-lit
+0356_position|a photo of a couch placed below a cup in a living room, professional photography, well-lit
+0357_position|a photo of a laptop positioned to the left of a cow on a desk, professional photography, well-lit
+0358_position|a photo of a fork placed above a hair drier on a dining table, high quality, detailed, sharp focus
+0359_position|a photo of a tie positioned to the right of a baseball bat on a hanger, high quality, detailed, sharp focus
+0360_position|a photo of a stop sign placed above a fork at a street corner, professional photography, well-lit
+0361_position|a photo of a bird placed below a skateboard on a branch, high resolution, natural lighting
+0362_position|a photo of an apple placed above a tv on a table, sharp, detailed, studio quality
+0363_position|a photo of a train placed above a potted plant on tracks, high quality, detailed, sharp focus
+0364_position|a photo of a truck positioned to the left of a refrigerator on a road, high resolution, natural lighting
+0365_position|a photo of a tv remote placed below a cow in a living room, high resolution, natural lighting
+0366_position|a photo of a bottle positioned to the right of a train on a table, sharp, detailed, studio quality
+0367_position|a photo of a dog placed above a cow in a park, professional photography, well-lit
+0368_position|a photo of a skateboard placed above a person on a street, high resolution, natural lighting
+0369_position|a photo of a baseball glove placed below an umbrella on a field, high resolution, natural lighting
+0370_position|a photo of a dining table positioned to the right of an oven in a dining room, high resolution, natural lighting
+0371_position|a photo of a hot dog positioned to the left of a suitcase on a plate, professional photography, well-lit
+0372_position|a photo of a bus placed below a toothbrush on a street, professional photography, well-lit
+0373_position|a photo of a backpack positioned to the right of a sandwich on the floor, high quality, detailed, sharp focus
+0374_position|a photo of a cake placed below a baseball bat on a plate, high quality, detailed, sharp focus
+0375_position|a photo of a dog positioned to the right of a tie in a park, high resolution, natural lighting
+0376_position|a photo of a suitcase positioned to the right of a boat on the floor, professional photography, well-lit
+0377_position|a photo of a bear placed above a clock in a forest, professional photography, well-lit
+0378_position|a photo of a tv remote positioned to the left of an umbrella in a living room, sharp, detailed, studio quality
+0379_position|a photo of a sports ball positioned to the left of an umbrella on a field, high resolution, natural lighting
+0380_position|a photo of a train positioned to the right of a dining table on tracks, high quality, detailed, sharp focus
+0381_position|a photo of a hair drier placed below an elephant in a bathroom, sharp, detailed, studio quality
+0382_position|a photo of a tennis racket positioned to the right of a spoon on a court, professional photography, well-lit
+0383_position|a photo of a wine glass positioned to the right of a hot dog on a table, high quality, detailed, sharp focus
+0384_position|a photo of a computer mouse positioned to the left of a bench on a desk, high resolution, natural lighting
+0385_position|a photo of a carrot positioned to the left of an orange on a table, professional photography, well-lit
+0386_position|a photo of a kite placed above a toothbrush in the sky, high resolution, natural lighting
+0387_position|a photo of a toaster placed below a traffic light on a kitchen counter, sharp, detailed, studio quality
+0388_position|a photo of a cat placed below a baseball glove in a garden, sharp, detailed, studio quality
+0389_position|a photo of a skis positioned to the right of a zebra on snow, sharp, detailed, studio quality
+0390_position|a photo of a stop sign placed above a chair at a street corner, clear, detailed, realistic
+0391_position|a photo of a stop sign placed above a parking meter at a street corner, high resolution, natural lighting
+0392_position|a photo of a hot dog positioned to the right of a skateboard on a plate, sharp, detailed, studio quality
+0393_position|a photo of a pizza placed below a computer keyboard on a table, sharp, detailed, studio quality
+0394_position|a photo of a hair drier positioned to the left of a toilet in a bathroom, high resolution, natural lighting
+0395_position|a photo of a cow positioned to the left of a stop sign in a field, sharp, detailed, studio quality
+0396_position|a photo of a suitcase placed above a skis on the floor, high resolution, natural lighting
+0397_position|a photo of a book placed above a laptop on a table, professional photography, well-lit
+0398_position|a photo of a toothbrush placed below a pizza in a bathroom, high resolution, natural lighting
+0399_position|a photo of a toilet positioned to the left of a kite in a bathroom, high resolution, natural lighting
+0400_position|a photo of a tie placed above a sink on a hanger, clear, detailed, realistic
+0401_position|a photo of a bird positioned to the left of a couch on a branch, professional photography, well-lit
+0402_position|a photo of a bed positioned to the right of a sports ball in a bedroom, clear, detailed, realistic
+0403_position|a photo of an elephant placed below a surfboard in a savanna, sharp, detailed, studio quality
+0404_position|a photo of a frisbee positioned to the right of a motorcycle in a park, high resolution, natural lighting
+0405_position|a photo of a vase placed above a fire hydrant on a table, professional photography, well-lit
+0406_position|a photo of a zebra positioned to the left of an elephant in a savanna, clear, detailed, realistic
+0407_position|a photo of a bench positioned to the left of a bear in a park, high resolution, natural lighting
+0408_position|a photo of a donut positioned to the right of a bench on a plate, high quality, detailed, sharp focus
+0409_position|a photo of a frisbee placed below a horse in a park, clear, detailed, realistic
+0410_position|a photo of a computer keyboard placed above a snowboard on a desk, professional photography, well-lit
+0411_position|a photo of a tv placed below a cow in a living room, clear, detailed, realistic
+0412_position|a photo of an elephant placed below a horse in a savanna, clear, detailed, realistic
+0413_position|a photo of a suitcase positioned to the left of a banana on the floor, clear, detailed, realistic
+0414_position|a photo of a train placed below an airplane on tracks, sharp, detailed, studio quality
+0415_position|a photo of a cat placed below a backpack in a garden, high quality, detailed, sharp focus
+0416_position|a photo of a backpack placed below a cake on the floor, professional photography, well-lit
+0417_position|a photo of a sandwich placed below a knife on a plate, professional photography, well-lit
+0418_position|a photo of a bicycle placed above a parking meter on a street, professional photography, well-lit
+0419_position|a photo of a knife positioned to the right of a suitcase on a dining table, high resolution, natural lighting
+0420_position|a photo of a hot dog placed above a knife on a plate, professional photography, well-lit
+0421_position|a photo of a zebra positioned to the right of a parking meter in a savanna, professional photography, well-lit
+0422_position|a photo of a chair positioned to the left of a zebra in a room, high quality, detailed, sharp focus
+0423_position|a photo of a cow placed below an airplane in a field, high resolution, natural lighting
+0424_position|a photo of a cup positioned to the left of an umbrella on a table, high resolution, natural lighting
+0425_position|a photo of a zebra placed below a computer keyboard in a savanna, clear, detailed, realistic
+0426_position|a photo of a zebra placed below a broccoli in a savanna, sharp, detailed, studio quality
+0427_position|a photo of a laptop placed below a sports ball on a desk, high resolution, natural lighting
+0428_position|a photo of a truck positioned to the left of a baseball bat on a road, high resolution, natural lighting
+0429_position|a photo of a refrigerator placed above a baseball bat in a kitchen, high quality, detailed, sharp focus
+0430_position|a photo of a tv placed above a baseball bat in a living room, professional photography, well-lit
+0431_position|a photo of a baseball glove positioned to the right of a bear on a field, high resolution, natural lighting
+0432_position|a photo of a refrigerator placed below a scissors in a kitchen, high resolution, natural lighting
+0433_position|a photo of a dining table placed above a suitcase in a dining room, sharp, detailed, studio quality
+0434_position|a photo of a parking meter placed above a broccoli on a sidewalk, high quality, detailed, sharp focus
+0435_position|a photo of a frisbee placed above a truck in a park, sharp, detailed, studio quality
+0436_position|a photo of a pizza positioned to the right of a banana on a table, high resolution, natural lighting
+0437_position|a photo of a bus placed above a boat on a street, high resolution, natural lighting
+0438_position|a photo of a cell phone positioned to the left of a tennis racket in hand, high quality, detailed, sharp focus
+0439_position|a photo of a horse positioned to the right of a broccoli in a field, clear, detailed, realistic
+0440_position|a photo of a broccoli placed above a bottle on a table, clear, detailed, realistic
+0441_position|a photo of a vase positioned to the right of a horse on a table, high resolution, natural lighting
+0442_position|a photo of a bear placed above a spoon in a forest, high resolution, natural lighting
+0443_position|a photo of a zebra positioned to the right of a bed in a savanna, sharp, detailed, studio quality
+0444_position|a photo of a cow positioned to the right of a laptop in a field, sharp, detailed, studio quality
+0445_position|a photo of a bed positioned to the right of a frisbee in a bedroom, sharp, detailed, studio quality
+0446_position|a photo of a tie positioned to the right of a motorcycle on a hanger, professional photography, well-lit
+0447_position|a photo of a laptop positioned to the right of a tv on a desk, high resolution, natural lighting
+0448_position|a photo of a cell phone positioned to the right of a chair in hand, professional photography, well-lit
+0449_position|a photo of a couch placed below a potted plant in a living room, clear, detailed, realistic
+0450_position|a photo of a clock placed below a tv on a wall, high resolution, natural lighting
+0451_position|a photo of a couch placed below a vase in a living room, high resolution, natural lighting
+0452_position|a photo of a donut placed below a cat on a plate, high quality, detailed, sharp focus
+0453_position|a photo of a couch positioned to the left of a toaster in a living room, high resolution, natural lighting
+0454_color_attr|a photo of a purple wine glass and a black apple placed together on a table, clear, detailed, realistic
+0455_color_attr|a photo of a green bus and a purple microwave placed together on a street, high resolution, natural lighting
+0456_color_attr|a photo of a green skis and a brown airplane next to each other on snow, professional photography, well-lit
+0457_color_attr|a photo of a yellow computer keyboard and a black sink placed together on a desk, professional photography, well-lit
+0458_color_attr|a photo of a pink oven and a green motorcycle side by side in a kitchen, sharp, detailed, studio quality
+0459_color_attr|a photo of a purple parking meter and a red laptop placed together on a sidewalk, high resolution, natural lighting
+0460_color_attr|a photo of a yellow skateboard and an orange computer mouse placed together on a street, sharp, detailed, studio quality
+0461_color_attr|a photo of a red skis and a brown tie side by side on snow, high quality, detailed, sharp focus
+0462_color_attr|a photo of a pink skateboard and a black train side by side on a street, high resolution, natural lighting
+0463_color_attr|a photo of a white handbag and a purple bed side by side on a chair, high resolution, natural lighting
+0464_color_attr|a photo of a purple elephant and a brown sports ball next to each other in a savanna, high quality, detailed, sharp focus
+0465_color_attr|a photo of a purple dog and a black dining table next to each other in a park, high resolution, natural lighting
+0466_color_attr|a photo of a white dining table and a red car next to each other in a dining room, professional photography, well-lit
+0467_color_attr|a photo of a blue cell phone and a green apple next to each other in hand, clear, detailed, realistic
+0468_color_attr|a photo of a red car and an orange potted plant next to each other on a road, high resolution, natural lighting
+0469_color_attr|a photo of a brown carrot and a white potted plant next to each other on a table, high resolution, natural lighting
+0470_color_attr|a photo of a black kite and a green bear next to each other in the sky, high quality, detailed, sharp focus
+0471_color_attr|a photo of a blue laptop and a brown bear placed together on a desk, high quality, detailed, sharp focus
+0472_color_attr|a photo of a green teddy bear and a brown kite side by side on a bed, sharp, detailed, studio quality
+0473_color_attr|a photo of a yellow stop sign and a blue potted plant side by side at a street corner, clear, detailed, realistic
+0474_color_attr|a photo of an orange snowboard and a green cat placed together on snow, high quality, detailed, sharp focus
+0475_color_attr|a photo of an orange truck and a pink sink side by side on a road, high quality, detailed, sharp focus
+0476_color_attr|a photo of a brown hot dog and a purple pizza side by side on a plate, professional photography, well-lit
+0477_color_attr|a photo of a green couch and an orange umbrella placed together in a living room, high quality, detailed, sharp focus
+0478_color_attr|a photo of a brown bed and a pink cell phone side by side in a bedroom, professional photography, well-lit
+0479_color_attr|a photo of a black broccoli and a yellow cake next to each other on a table, professional photography, well-lit
+0480_color_attr|a photo of a red train and a purple bear placed together on tracks, high quality, detailed, sharp focus
+0481_color_attr|a photo of a purple tennis racket and a black sink next to each other on a court, professional photography, well-lit
+0482_color_attr|a photo of a blue vase and a black banana next to each other on a table, clear, detailed, realistic
+0483_color_attr|a photo of a blue clock and a white cup placed together on a wall, professional photography, well-lit
+0484_color_attr|a photo of a red umbrella and a blue couch placed together outdoors, sharp, detailed, studio quality
+0485_color_attr|a photo of a white handbag and a red giraffe side by side on a chair, high quality, detailed, sharp focus
+0486_color_attr|a photo of a pink tv remote and a blue airplane side by side in a living room, clear, detailed, realistic
+0487_color_attr|a photo of a pink handbag and a black scissors side by side on a chair, sharp, detailed, studio quality
+0488_color_attr|a photo of a brown car and a pink hair drier placed together on a road, clear, detailed, realistic
+0489_color_attr|a photo of a black bus and a brown cell phone next to each other on a street, high resolution, natural lighting
+0490_color_attr|a photo of a purple sheep and a pink banana side by side in a meadow, professional photography, well-lit
+0491_color_attr|a photo of a blue handbag and a white cell phone placed together on a chair, sharp, detailed, studio quality
+0492_color_attr|a photo of a white pizza and a green umbrella side by side on a table, professional photography, well-lit
+0493_color_attr|a photo of a white tie and a purple skateboard placed together on a hanger, clear, detailed, realistic
+0494_color_attr|a photo of a yellow sports ball and a green boat side by side on a field, sharp, detailed, studio quality
+0495_color_attr|a photo of a white wine glass and a brown giraffe side by side on a table, sharp, detailed, studio quality
+0496_color_attr|a photo of a yellow bowl and a white baseball glove placed together on a table, clear, detailed, realistic
+0497_color_attr|a photo of an orange microwave and a black spoon placed together on a kitchen counter, high resolution, natural lighting
+0498_color_attr|a photo of an orange skateboard and a pink bowl side by side on a street, clear, detailed, realistic
+0499_color_attr|a photo of a blue toilet and a white suitcase placed together in a bathroom, sharp, detailed, studio quality
+0500_color_attr|a photo of a white boat and an orange hot dog side by side on water, clear, detailed, realistic
+0501_color_attr|a photo of a yellow dining table and a pink dog next to each other in a dining room, high resolution, natural lighting
+0502_color_attr|a photo of a red cake and a purple chair next to each other on a plate, high quality, detailed, sharp focus
+0503_color_attr|a photo of a blue tie and a pink dining table placed together on a hanger, clear, detailed, realistic
+0504_color_attr|a photo of a blue cow and a black computer keyboard placed together in a field, high resolution, natural lighting
+0505_color_attr|a photo of a yellow pizza and a green oven next to each other on a table, professional photography, well-lit
+0506_color_attr|a photo of a red laptop and a brown car placed together on a desk, professional photography, well-lit
+0507_color_attr|a photo of a purple computer keyboard and a blue scissors placed together on a desk, sharp, detailed, studio quality
+0508_color_attr|a photo of a green surfboard and an orange oven placed together on a beach, clear, detailed, realistic
+0509_color_attr|a photo of a yellow parking meter and a pink refrigerator next to each other on a sidewalk, sharp, detailed, studio quality
+0510_color_attr|a photo of a brown computer mouse and a purple bottle next to each other on a desk, high resolution, natural lighting
+0511_color_attr|a photo of a red umbrella and a green cow next to each other outdoors, sharp, detailed, studio quality
+0512_color_attr|a photo of a red giraffe and a black cell phone side by side in a savanna, clear, detailed, realistic
+0513_color_attr|a photo of a brown oven and a purple train next to each other in a kitchen, high quality, detailed, sharp focus
+0514_color_attr|a photo of a blue baseball bat and a pink book side by side on a field, high resolution, natural lighting
+0515_color_attr|a photo of a green cup and a yellow bowl placed together on a table, high resolution, natural lighting
+0516_color_attr|a photo of a yellow suitcase and a brown bus placed together on the floor, sharp, detailed, studio quality
+0517_color_attr|a photo of an orange motorcycle and a pink donut next to each other on a road, high resolution, natural lighting
+0518_color_attr|a photo of an orange giraffe and a white baseball glove next to each other in a savanna, high quality, detailed, sharp focus
+0519_color_attr|a photo of an orange handbag and a green carrot side by side on a chair, clear, detailed, realistic
+0520_color_attr|a photo of a black bottle and a white refrigerator side by side on a table, high resolution, natural lighting
+0521_color_attr|a photo of a white dog and a blue potted plant next to each other in a park, clear, detailed, realistic
+0522_color_attr|a photo of an orange handbag and a red car next to each other on a chair, clear, detailed, realistic
+0523_color_attr|a photo of a red stop sign and a blue book placed together at a street corner, sharp, detailed, studio quality
+0524_color_attr|a photo of a yellow car and an orange toothbrush placed together on a road, clear, detailed, realistic
+0525_color_attr|a photo of a black potted plant and a yellow toilet placed together in a corner, high quality, detailed, sharp focus
+0526_color_attr|a photo of a brown dining table and a white suitcase side by side in a dining room, professional photography, well-lit
+0527_color_attr|a photo of an orange donut and a yellow stop sign placed together on a plate, professional photography, well-lit
+0528_color_attr|a photo of a green suitcase and a blue boat next to each other on the floor, high resolution, natural lighting
+0529_color_attr|a photo of an orange tennis racket and a yellow sports ball side by side on a court, sharp, detailed, studio quality
+0530_color_attr|a photo of a purple computer keyboard and a red chair placed together on a desk, high resolution, natural lighting
+0531_color_attr|a photo of a purple suitcase and an orange pizza next to each other on the floor, high resolution, natural lighting
+0532_color_attr|a photo of a white bottle and a blue sheep side by side on a table, high quality, detailed, sharp focus
+0533_color_attr|a photo of a purple backpack and a white umbrella side by side on the floor, clear, detailed, realistic
+0534_color_attr|a photo of an orange potted plant and a black spoon placed together in a corner, high resolution, natural lighting
+0535_color_attr|a photo of a green tennis racket and a black dog next to each other on a court, professional photography, well-lit
+0536_color_attr|a photo of a yellow handbag and a blue refrigerator next to each other on a chair, sharp, detailed, studio quality
+0537_color_attr|a photo of a pink broccoli and a red sink placed together on a table, high resolution, natural lighting
+0538_color_attr|a photo of a red bowl and a pink sink next to each other on a table, sharp, detailed, studio quality
+0539_color_attr|a photo of a white toilet and a red apple placed together in a bathroom, high resolution, natural lighting
+0540_color_attr|a photo of a pink dining table and a black sandwich next to each other in a dining room, sharp, detailed, studio quality
+0541_color_attr|a photo of a black car and a green parking meter placed together on a road, clear, detailed, realistic
+0542_color_attr|a photo of a yellow bird and a black motorcycle next to each other on a branch, high resolution, natural lighting
+0543_color_attr|a photo of a brown giraffe and a white stop sign next to each other in a savanna, clear, detailed, realistic
+0544_color_attr|a photo of a white banana and a black elephant side by side on a table, professional photography, well-lit
+0545_color_attr|a photo of an orange cow and a purple sandwich next to each other in a field, professional photography, well-lit
+0546_color_attr|a photo of a red clock and a black cell phone placed together on a wall, high quality, detailed, sharp focus
+0547_color_attr|a photo of a brown knife and a blue donut placed together on a dining table, sharp, detailed, studio quality
+0548_color_attr|a photo of a red cup and a pink handbag side by side on a table, professional photography, well-lit
+0549_color_attr|a photo of a yellow bicycle and a red motorcycle placed together on a street, professional photography, well-lit
+0550_color_attr|a photo of a red orange and a purple broccoli next to each other on a table, high resolution, natural lighting
+0551_color_attr|a photo of an orange traffic light and a white toilet placed together at an intersection, sharp, detailed, studio quality
+0552_color_attr|a photo of a green cup and a red pizza next to each other on a table, sharp, detailed, studio quality
+0553_color_attr|a photo of a blue pizza and a yellow baseball glove side by side on a table, high quality, detailed, sharp focus
